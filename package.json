@@ -30,7 +30,8 @@
     "electron": "^13.1.2"
   },
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0"
+    "electron-squirrel-startup": "^1.0.0",
+    "three": "^0.129.0"
   },
   "config": {
     "forge": {

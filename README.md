@@ -27,3 +27,5 @@ $ cd ElectronHTMLPrezentacja/
 $ npm install
 $ npm start
 ```
+# Przydatne linki
+(https://colorhunt.co)[ColorHunt]
