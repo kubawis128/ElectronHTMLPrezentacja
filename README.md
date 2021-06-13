@@ -3,21 +3,21 @@
 <hr>
 
 ```
-npm start
+$ npm start
 ```
 ## Pakowanie
 <hr>
 
 ```
-npm run make
+$ npm run make
 ```
 ## Publikowanie zmian
 <hr>
 
 ```
-git add . #Nie jestem pewien czy potrzebne
-git commit -m "(Nazwij zmiany)"
-git push
+$ git add . #Nie jestem pewien czy potrzebne
+$ git commit -m "(Nazwij zmiany)" 
+$ git push
 ```
 # **Pierwszy start**
 
