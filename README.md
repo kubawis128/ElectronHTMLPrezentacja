@@ -27,5 +27,10 @@ $ cd ElectronHTMLPrezentacja/
 $ npm install
 $ npm start
 ```
+# Przykłady z biblioteki tree.js
+
+```
+$ npm run examples
+```
 # Przydatne linki
 (https://colorhunt.co)[ColorHunt]
